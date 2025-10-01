@@ -55,8 +55,5 @@ The only included record is a fictitious admin user with a generic password, pro
 
 To access the rest of the project:
 
-- Project article and LaTeX source:  
-  [LaTeX-article](https://github.com/silviaso1/Fala-Cidadao-LaTeX-article)
-
 - Application source code and setup instructions:  
   [Fala-Cidadao](https://github.com/silviaso1/Fala-Cidadao)
