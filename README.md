@@ -26,9 +26,6 @@ A única entrada presente é um usuário de exemplo (admin fictício) com senha 
 
 Caso deseje acessar o restante do projeto:
 
-- Artigo e código LaTeX do projeto:  
-  [LaTeX-article](https://github.com/silviaso1/Fala-Cidadao-LaTeX-article)
-
 - Código-fonte da aplicação e instruções de execução:  
   [Fala-Cidadao](https://github.com/silviaso1/Fala-Cidadao)
 
